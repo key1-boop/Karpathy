@@ -1,0 +1,1 @@
+Transformer是一种基于自注意力机制的深度学习模型，抛弃了传统的RNN/CNN结构。核心创新：多头注意力、位置编码、残差连接。Transformer是BERT、GPT等大语言模型的基础架构。
